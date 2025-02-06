@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Huynh Minh Thuan 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmtminhthuan&label=Profile+Views&color=blue" alt="Profile Views" />
-</p>
-
 ## 🔥 About Me  
 - 🎓 Bachelor's Degree in Software Engineering | **FPT University**  
 - 💻 Passionate about **Software Developer | Full-stack Enthusiast | Software Architecture**  
